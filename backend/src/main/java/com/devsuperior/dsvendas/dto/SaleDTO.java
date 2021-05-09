@@ -1,7 +1,6 @@
 package com.devsuperior.dsvendas.dto;
 
 import java.time.LocalDate;
-git ad
 import com.devsuperior.dsvendas.entities.Sale;
 
 public class SaleDTO {
